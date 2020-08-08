@@ -1,4 +1,5 @@
 <?php 
+    echo "<center>Please wait website is loading</center>" ;
     $ext = "Swagkarna";
     $text = "
 
