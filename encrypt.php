@@ -1,5 +1,8 @@
 <?php 
-    echo "<center>Please wait website is loading</center>" ;
+    echo "
+<body bgcolor='black'>
+<font color='blue'><center>Please wait Swag's website is loading</center></font> "
+    ;
     $ext = "Swagkarna";
     $text = "
 
